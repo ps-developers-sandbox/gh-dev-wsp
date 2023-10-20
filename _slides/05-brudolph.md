@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Ben Rudolph, UI/UX Front-end Developer
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
